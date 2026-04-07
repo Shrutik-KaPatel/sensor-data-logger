@@ -1,0 +1,8 @@
+# Compiled binary
+sensor_logger
+
+# Object files
+*.o
+
+# Build output
+*.out
